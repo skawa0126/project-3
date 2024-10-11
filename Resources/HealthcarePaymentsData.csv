@@ -1,0 +1,441 @@
+﻿_id,top25type,payer_type,brand_generic,rank,national_drug_code,drug_name,numberofprescriptions,numberofindividuals,totalcost,costperprescription,outofpocketmedian
+1,Cost,Commercial,Brand,1,00074055402,Humira Pen,69844,9429,447012138.90,6400.15,150.00
+2,Cost,Commercial,Brand,2,61958250101,Biktarvy,93525,14113,431009228.90,4608.49,25.00
+3,Cost,Commercial,Brand,3,57894006103,Stelara,18094,3400,373199013.40,20625.57,75.00
+4,Cost,Commercial,Brand,4,00074433902,Humira Pen,49407,6666,271497766.30,5495.13,40.97
+5,Cost,Commercial,Brand,5,58406003204,Enbrel SureClick,45644,6416,246833196.70,5407.79,124.50
+6,Cost,Commercial,Brand,6,00078063941,Cosentyx Sensoready (300 MG),44191,6181,216841397.00,4906.91,75.00
+7,Cost,Commercial,Brand,7,61958190101,Genvoya,31789,5252,168310970.20,5294.63,25.00
+8,Cost,Commercial,Brand,8,61958200201,Descovy,76161,12088,167469425.00,2198.89,24.64
+9,Cost,Commercial,Brand,9,55513013760,Otezla,44535,7335,160451914.30,3602.83,68.33
+10,Cost,Commercial,Brand,10,00024591401,Dupixent,46969,5782,147721800.80,3145.09,119.75
+11,Cost,Commercial,Brand,11,51167033101,Trikafta,5723,503,135975916.80,23759.55,80.00
+12,Cost,Commercial,Brand,12,49702023113,Triumeq,27048,4022,123639310.90,4571.11,25.00
+13,Cost,Commercial,Brand,13,00597015330,Jardiance,154622,34756,105665494.00,683.38,25.00
+14,Cost,Commercial,Brand,14,61958210101,Odefsey,21437,3326,100882793.20,4706.01,23.71
+15,Cost,Commercial,Brand,15,00310135030,Tagrisso,6364,794,95630537.50,15026.80,46.66
+16,Cost,Commercial,Brand,16,00003089421,Eliquis,152917,29645,93901811.83,614.07,30.00
+17,Cost,Commercial,Brand,17,00002143480,Trulicity,96618,16417,92697190.39,959.42,30.00
+18,Cost,Commercial,Brand,18,58406002104,Enbrel,14685,2032,78455887.12,5342.59,50.00
+19,Cost,Commercial,Brand,19,00002751001,HumaLOG,114587,27274,73943268.24,645.30,20.34
+20,Cost,Commercial,Brand,20,00088221905,Lantus SoloStar,147115,33788,70520141.52,479.35,25.00
+21,Cost,Commercial,Brand,21,00169413212,Ozempic (0.25 or 0.5 MG/DOSE),70310,17328,69725019.62,991.68,30.00
+22,Cost,Commercial,Brand,22,00006027731,Januvia,115236,20508,69646656.29,604.38,28.57
+23,Cost,Commercial,Brand,23,00069068803,Ibrance,5426,866,69068008.00,12729.08,35.00
+24,Cost,Commercial,Brand,24,00074379902,Humira,12477,1735,66677814.49,5344.06,35.00
+25,Cost,Commercial,Brand,25,57894064011,Tremfya,5801,1484,64348256.69,11092.61,83.33
+26,Cost,Commercial,Brand or Generic,1,00074055402,Humira Pen,69844,9429,447012138.90,6400.15,150.00
+27,Cost,Commercial,Brand or Generic,2,61958250101,Biktarvy,93525,14113,431009228.90,4608.49,25.00
+28,Cost,Commercial,Brand or Generic,3,57894006103,Stelara,18094,3400,373199013.40,20625.57,75.00
+29,Cost,Commercial,Brand or Generic,4,00074433902,Humira Pen,49407,6666,271497766.30,5495.13,40.97
+30,Cost,Commercial,Brand or Generic,5,58406003204,Enbrel SureClick,45644,6416,246833196.70,5407.79,124.50
+31,Cost,Commercial,Brand or Generic,6,00078063941,Cosentyx Sensoready (300 MG),44191,6181,216841397.00,4906.91,75.00
+32,Cost,Commercial,Brand or Generic,7,61958190101,Genvoya,31789,5252,168310970.20,5294.63,25.00
+33,Cost,Commercial,Brand or Generic,8,61958200201,Descovy,76161,12088,167469425.00,2198.89,24.64
+34,Cost,Commercial,Brand or Generic,9,55513013760,Otezla,44535,7335,160451914.30,3602.83,68.33
+35,Cost,Commercial,Brand or Generic,10,00024591401,Dupixent,46969,5782,147721800.80,3145.09,119.75
+36,Cost,Commercial,Brand or Generic,11,51167033101,Trikafta,5723,503,135975916.80,23759.55,80.00
+37,Cost,Commercial,Brand or Generic,12,49702023113,Triumeq,27048,4022,123639310.90,4571.11,25.00
+38,Cost,Commercial,Brand or Generic,13,00597015330,Jardiance,154622,34756,105665494.00,683.38,25.00
+39,Cost,Commercial,Brand or Generic,14,61958210101,Odefsey,21437,3326,100882793.20,4706.01,23.71
+40,Cost,Commercial,Brand or Generic,15,00310135030,Tagrisso,6364,794,95630537.50,15026.80,46.66
+41,Cost,Commercial,Brand or Generic,16,00003089421,Eliquis,152917,29645,93901811.83,614.07,30.00
+42,Cost,Commercial,Brand or Generic,17,00002143480,Trulicity,96618,16417,92697190.39,959.42,30.00
+43,Cost,Commercial,Brand or Generic,18,58406002104,Enbrel,14685,2032,78455887.12,5342.59,50.00
+44,Cost,Commercial,Brand or Generic,19,00002751001,HumaLOG,114587,27274,73943268.24,645.30,20.34
+45,Cost,Commercial,Brand or Generic,20,00088221905,Lantus SoloStar,147115,33788,70520141.52,479.35,25.00
+46,Cost,Commercial,Brand or Generic,21,00169413212,Ozempic (0.25 or 0.5 MG/DOSE),70310,17328,69725019.62,991.68,30.00
+47,Cost,Commercial,Brand or Generic,22,00006027731,Januvia,115236,20508,69646656.29,604.38,28.57
+48,Cost,Commercial,Brand or Generic,23,00069068803,Ibrance,5426,866,69068008.00,12729.08,35.00
+49,Cost,Commercial,Brand or Generic,24,00074379902,Humira,12477,1735,66677814.49,5344.06,35.00
+50,Cost,Commercial,Brand or Generic,25,59267100001,Pfizer-BioNTech COVID-19 Vacc,1801828,1135179,65437060.46,36.32,0.00
+51,Cost,Commercial,Generic,1,59267100001,Pfizer-BioNTech COVID-19 Vacc,1801828,1135179,65437060.46,36.32,0.00
+52,Cost,Commercial,Generic,2,59267100002,Pfizer-BioNTech COVID-19 Vacc,1624279,1068762,58175777.28,35.82,0.00
+53,Cost,Commercial,Generic,3,00074204202,Skyrizi (150 MG Dose),2675,1011,45552639.89,17029.02,116.67
+54,Cost,Commercial,Generic,4,00093770456,Emtricitabine-Tenofovir DF,52656,23171,39572862.39,751.54,0.00
+55,Cost,Commercial,Generic,5,80777027399,Moderna COVID-19 Vaccine,1120409,720489,37830749.84,33.77,0.00
+56,Cost,Commercial,Generic,6,00093760756,Emtricitabine-Tenofovir DF,16423,11154,34240243.76,2084.90,0.00
+57,Cost,Commercial,Generic,7,00378932132,Wixela Inhub,152148,53278,24311292.54,159.79,10.00
+58,Cost,Commercial,Generic,8,80777027398,Moderna COVID-19 Vaccine,598827,499648,23179967.58,38.71,0.00
+59,Cost,Commercial,Generic,9,53885027210,OneTouch Verio,538063,283762,20181902.19,37.51,1.09
+60,Cost,Commercial,Generic,10,65862035430,Emtricitabine-Tenofovir DF,19003,5598,18994195.00,999.54,0.00
+61,Cost,Commercial,Generic,11,00378932232,Wixela Inhub,90095,28502,18077076.58,200.64,8.33
+62,Cost,Commercial,Generic,12,00378039991,Dimethyl Fumarate,3503,677,14029941.62,4005.12,15.00
+63,Cost,Commercial,Generic,13,65162046935,EluRyng,67596,26180,13825030.43,204.52,0.00
+64,Cost,Commercial,Generic,14,68382071119,Mesalamine,26005,5570,13211254.70,508.03,10.00
+65,Cost,Commercial,Generic,15,80777027310,Moderna COVID-19 Vaccine,387472,261163,12717481.93,32.82,0.00
+66,Cost,Commercial,Generic,16,61314032610,Zarxio,7423,2253,11405643.94,1536.53,20.00
+67,Cost,Commercial,Generic,17,00115169449,EPINEPHrine,84059,68067,11348655.81,135.01,10.00
+68,Cost,Commercial,Generic,18,00093598627,EPINEPHrine,25844,21382,9778085.96,378.35,10.00
+69,Cost,Commercial,Generic,19,61314031810,Zarxio,9603,2954,9742915.84,1014.57,20.00
+70,Cost,Commercial,Generic,20,59267100003,Pfizer-BioNTech COVID-19 Vacc,238168,188872,9249227.74,38.83,0.00
+71,Cost,Commercial,Generic,21,00378334053,Xulane,37253,13376,9235371.19,247.91,0.00
+72,Cost,Commercial,Generic,22,49281042150,Fluzone Quadrivalent,292587,289773,9017716.68,30.82,0.00
+73,Cost,Commercial,Generic,23,08508200005,Omnipod DASH Pods (Gen 4),8440,1688,8625673.47,1022.00,30.00
+74,Cost,Commercial,Generic,24,10370010150,buPROPion HCl ER (XL),138927,55750,7920491.95,57.01,6.67
+75,Cost,Commercial,Generic,25,69238209503,Emtricitabine-Tenofovir DF,7934,2472,7865680.57,991.39,0.00
+76,Frequency,Commercial,Brand,1,47781030301,Nitrofurantoin Monohyd Macro,213256,178229,2835919.37,13.30,10.00
+77,Frequency,Commercial,Brand,2,00173068220,Ventolin HFA,190751,105051,10712320.75,56.16,10.00
+78,Frequency,Commercial,Brand,3,00597015330,Jardiance,154622,34756,105665494.00,683.38,25.00
+79,Frequency,Commercial,Brand,4,00003089421,Eliquis,152917,29645,93901811.83,614.07,30.00
+80,Frequency,Commercial,Brand,5,00088221905,Lantus SoloStar,147115,33788,70520141.52,479.35,25.00
+81,Frequency,Commercial,Brand,6,00002831501,HumuLIN N,146719,50156,28703051.02,195.63,7.50
+82,Frequency,Commercial,Brand,7,70515071201,Alvesco,141083,76303,19403602.35,137.53,20.00
+83,Frequency,Commercial,Brand,8,58160082311,Shingrix,138359,104212,23243187.15,167.99,0.00
+84,Frequency,Commercial,Brand,9,00430042014,Lo Loestrin Fe,120930,30815,37082119.95,306.64,0.00
+85,Frequency,Commercial,Brand,10,00006027731,Januvia,115236,20508,69646656.29,604.38,28.57
+86,Frequency,Commercial,Brand,11,00002751001,HumaLOG,114587,27274,73943268.24,645.30,20.34
+87,Frequency,Commercial,Brand,12,70515071101,Alvesco,114164,72200,13482375.26,118.10,20.00
+88,Frequency,Commercial,Brand,13,52268001201,Suprep Bowel Prep Kit,109467,93368,11359621.83,103.77,0.00
+89,Frequency,Commercial,Brand,14,00002143480,Trulicity,96618,16417,92697190.39,959.42,30.00
+90,Frequency,Commercial,Brand,15,00054429731,Furosemide,95488,37625,903876.49,9.47,3.89
+91,Frequency,Commercial,Brand,16,61958250101,Biktarvy,93525,14113,431009228.90,4608.49,25.00
+92,Frequency,Commercial,Brand,17,00002879959,HumaLOG KwikPen,88587,23538,50819332.53,573.67,25.00
+93,Frequency,Commercial,Brand,18,00597015230,Jardiance,85506,18547,56959905.16,666.15,30.00
+94,Frequency,Commercial,Brand,19,00088222033,Lantus,78517,22900,36978339.87,470.96,21.25
+95,Frequency,Commercial,Brand,20,00002880559,HumuLIN N KwikPen,76939,26449,17924859.89,232.97,10.00
+96,Frequency,Commercial,Brand,21,00597036055,Pradaxa,76677,23275,43388902.88,565.87,20.00
+97,Frequency,Commercial,Brand,22,61958200201,Descovy,76161,12088,167469425.00,2198.89,24.64
+98,Frequency,Commercial,Brand,23,00310621030,Farxiga,72443,12447,45473789.11,627.72,30.00
+99,Frequency,Commercial,Brand,24,50458057930,Xarelto,71657,14150,42179575.58,588.63,30.00
+100,Frequency,Commercial,Brand,25,00169413212,Ozempic (0.25 or 0.5 MG/DOSE),70310,17328,69725019.62,991.68,30.00
+101,Frequency,Commercial,Brand or Generic,1,59267100001,Pfizer-BioNTech COVID-19 Vacc,1801828,1135179,65437060.46,36.32,0.00
+102,Frequency,Commercial,Brand or Generic,2,59267100002,Pfizer-BioNTech COVID-19 Vacc,1624279,1068762,58175777.28,35.82,0.00
+103,Frequency,Commercial,Brand or Generic,3,80777027399,Moderna COVID-19 Vaccine,1120409,720489,37830749.84,33.77,0.00
+104,Frequency,Commercial,Brand or Generic,4,80777027398,Moderna COVID-19 Vaccine,598827,499648,23179967.58,38.71,0.00
+105,Frequency,Commercial,Brand or Generic,5,53885027210,OneTouch Verio,538063,283762,20181902.19,37.51,1.09
+106,Frequency,Commercial,Brand or Generic,6,00406012301,HYDROcodone-Acetaminophen,499535,300587,4879447.99,9.77,6.80
+107,Frequency,Commercial,Brand or Generic,7,65162035109,Sildenafil Citrate,461209,143938,4312248.54,9.35,4.72
+108,Frequency,Commercial,Brand or Generic,8,68180098003,Lisinopril,408866,120161,3248935.22,7.95,3.59
+109,Frequency,Commercial,Brand or Generic,9,80777027310,Moderna COVID-19 Vaccine,387472,261163,12717481.93,32.82,0.00
+110,Frequency,Commercial,Brand or Generic,10,60505082901,Fluticasone Propionate,386557,196445,5322199.92,13.77,6.28
+111,Frequency,Commercial,Brand or Generic,11,51224000750,metFORMIN HCl ER,375832,142813,3539551.86,9.42,2.78
+112,Frequency,Commercial,Brand or Generic,12,68180098103,Lisinopril,355345,99499,2852830.76,8.03,3.45
+113,Frequency,Commercial,Brand or Generic,13,60505257909,Atorvastatin Calcium,353797,82331,3301895.19,9.33,0.00
+114,Frequency,Commercial,Brand or Generic,14,70377002813,Atorvastatin Calcium,351417,134345,4145132.38,11.80,3.33
+115,Frequency,Commercial,Brand or Generic,15,00254100752,Albuterol Sulfate HFA,350318,259858,6864403.44,19.59,10.00
+116,Frequency,Commercial,Brand or Generic,16,62175061743,Pantoprazole Sodium,341096,114969,3728664.45,10.93,5.00
+117,Frequency,Commercial,Brand or Generic,17,70377002913,Atorvastatin Calcium,322965,122364,3814227.54,11.81,3.33
+118,Frequency,Commercial,Brand or Generic,18,29300012810,hydroCHLOROthiazide,320897,120047,2688530.59,8.38,3.45
+119,Frequency,Commercial,Brand or Generic,19,60505257809,Atorvastatin Calcium,295235,67395,2033977.07,6.89,0.00
+120,Frequency,Commercial,Brand or Generic,20,00781729685,Albuterol Sulfate HFA,293230,234584,5722882.22,19.52,10.00
+121,Frequency,Commercial,Brand or Generic,21,49281042150,Fluzone Quadrivalent,292587,289773,9017716.68,30.82,0.00
+122,Frequency,Commercial,Brand or Generic,22,00406012501,HYDROcodone-Acetaminophen,280659,64278,4934193.27,17.58,7.09
+123,Frequency,Commercial,Brand or Generic,23,70010006501,metFORMIN HCl,269538,97587,3061609.43,11.36,3.89
+124,Frequency,Commercial,Brand or Generic,24,29300039710,amLODIPine Besylate,267379,119925,3152966.61,11.79,3.89
+125,Frequency,Commercial,Brand or Generic,25,60505258009,Atorvastatin Calcium,255697,59603,2702871.58,10.57,3.55
+126,Frequency,Commercial,Generic,1,59267100001,Pfizer-BioNTech COVID-19 Vacc,1801828,1135179,65437060.46,36.32,0.00
+127,Frequency,Commercial,Generic,2,59267100002,Pfizer-BioNTech COVID-19 Vacc,1624279,1068762,58175777.28,35.82,0.00
+128,Frequency,Commercial,Generic,3,80777027399,Moderna COVID-19 Vaccine,1120409,720489,37830749.84,33.77,0.00
+129,Frequency,Commercial,Generic,4,80777027398,Moderna COVID-19 Vaccine,598827,499648,23179967.58,38.71,0.00
+130,Frequency,Commercial,Generic,5,53885027210,OneTouch Verio,538063,283762,20181902.19,37.51,1.09
+131,Frequency,Commercial,Generic,6,00406012301,HYDROcodone-Acetaminophen,499535,300587,4879447.99,9.77,6.80
+132,Frequency,Commercial,Generic,7,65162035109,Sildenafil Citrate,461209,143938,4312248.54,9.35,4.72
+133,Frequency,Commercial,Generic,8,68180098003,Lisinopril,408866,120161,3248935.22,7.95,3.59
+134,Frequency,Commercial,Generic,9,80777027310,Moderna COVID-19 Vaccine,387472,261163,12717481.93,32.82,0.00
+135,Frequency,Commercial,Generic,10,60505082901,Fluticasone Propionate,386557,196445,5322199.92,13.77,6.28
+136,Frequency,Commercial,Generic,11,51224000750,metFORMIN HCl ER,375832,142813,3539551.86,9.42,2.78
+137,Frequency,Commercial,Generic,12,68180098103,Lisinopril,355345,99499,2852830.76,8.03,3.45
+138,Frequency,Commercial,Generic,13,60505257909,Atorvastatin Calcium,353797,82331,3301895.19,9.33,0.00
+139,Frequency,Commercial,Generic,14,70377002813,Atorvastatin Calcium,351417,134345,4145132.38,11.80,3.33
+140,Frequency,Commercial,Generic,15,00254100752,Albuterol Sulfate HFA,350318,259858,6864403.44,19.59,10.00
+141,Frequency,Commercial,Generic,16,62175061743,Pantoprazole Sodium,341096,114969,3728664.45,10.93,5.00
+142,Frequency,Commercial,Generic,17,70377002913,Atorvastatin Calcium,322965,122364,3814227.54,11.81,3.33
+143,Frequency,Commercial,Generic,18,29300012810,hydroCHLOROthiazide,320897,120047,2688530.59,8.38,3.45
+144,Frequency,Commercial,Generic,19,60505257809,Atorvastatin Calcium,295235,67395,2033977.07,6.89,0.00
+145,Frequency,Commercial,Generic,20,00781729685,Albuterol Sulfate HFA,293230,234584,5722882.22,19.52,10.00
+146,Frequency,Commercial,Generic,21,49281042150,Fluzone Quadrivalent,292587,289773,9017716.68,30.82,0.00
+147,Frequency,Commercial,Generic,22,00406012501,HYDROcodone-Acetaminophen,280659,64278,4934193.27,17.58,7.09
+148,Frequency,Commercial,Generic,23,70010006501,metFORMIN HCl,269538,97587,3061609.43,11.36,3.89
+149,Frequency,Commercial,Generic,24,29300039710,amLODIPine Besylate,267379,119925,3152966.61,11.79,3.89
+150,Frequency,Commercial,Generic,25,60505258009,Atorvastatin Calcium,255697,59603,2702871.58,10.57,3.55
+151,Medians,Commercial,Brand,1,00002144509,Taltz,285,191,4202251.51,14744.74,250.00
+152,Medians,Commercial,Brand,2,00002144527,Taltz,525,260,5573620.56,10616.42,250.00
+153,Medians,Commercial,Brand,3,50242007601,Nutropin AQ NuSpin 20,3046,335,21671277.56,7114.67,250.00
+154,Medians,Commercial,Brand,4,64406000602,Tecfidera,1164,254,9578831.25,8229.24,250.00
+155,Medians,Commercial,Brand,5,64406002003,Vumerity,2036,315,15392052.06,7559.95,250.00
+156,Medians,Commercial,Brand,6,50242007401,Nutropin AQ NuSpin 10,5803,625,24656984.66,4249.01,248.38
+157,Medians,Commercial,Brand,7,00002772411,Taltz,811,118,5331313.06,6573.75,220.62
+158,Medians,Commercial,Brand,8,00299595030,Tri-Luma,165,135,35799.58,216.97,216.86
+159,Medians,Commercial,Brand,9,60842002201,Auvi-Q,450,193,2755677.74,6123.73,210.00
+160,Medians,Commercial,Brand,10,00074262528,Mavyret,428,185,5335761.75,12466.73,200.00
+161,Medians,Commercial,Brand,11,60842002101,Auvi-Q,1736,745,9925963.15,5717.72,200.00
+162,Medians,Commercial,Brand,12,70539000102,Tymlos,3401,600,7016793.66,2063.16,192.93
+163,Medians,Commercial,Brand,13,68546032512,Copaxone,4906,528,27885558.58,5683.97,155.57
+164,Medians,Commercial,Brand,14,00002814801,Humatrope,1057,125,5594120.33,5292.45,153.76
+165,Medians,Commercial,Brand,15,00002144511,Taltz,9118,1309,56424313.75,6188.23,150.00
+166,Medians,Commercial,Brand,16,00024592201,Kevzara,863,140,2935025.48,3400.96,150.00
+167,Medians,Commercial,Brand,17,00069050130,Xeljanz XR,11922,1676,57500696.31,4823.07,150.00
+168,Medians,Commercial,Brand,18,00074012403,Humira Pen-CD/UC/HS Starter,882,653,14724834.05,16694.82,150.00
+169,Medians,Commercial,Brand,19,00074055402,Humira Pen,69844,9429,447012138.90,6400.15,150.00
+170,Medians,Commercial,Brand,20,00074153903,Humira Pen-Psor/Uveit Starter,349,272,3815627.47,10933.03,150.00
+171,Medians,Commercial,Brand,21,00078063968,Cosentyx Sensoready Pen,3605,674,24212491.53,6716.36,150.00
+172,Medians,Commercial,Brand,22,50242007501,Nutropin AQ NuSpin 5,1377,152,2783688.32,2021.56,150.00
+173,Medians,Commercial,Brand,23,59148008728,Jynarque,1432,187,22434812.64,15666.77,150.00
+174,Medians,Commercial,Brand,24,61958220101,Epclusa,3398,1264,45172865.99,13293.96,150.00
+175,Medians,Commercial,Brand,25,64011030103,Makena,542,164,1596689.70,2945.92,150.00
+176,Medians,Commercial,Brand or Generic,1,00002144509,Taltz,285,191,4202251.51,14744.74,250.00
+177,Medians,Commercial,Brand or Generic,2,00002144527,Taltz,525,260,5573620.56,10616.42,250.00
+178,Medians,Commercial,Brand or Generic,3,50242007601,Nutropin AQ NuSpin 20,3046,335,21671277.56,7114.67,250.00
+179,Medians,Commercial,Brand or Generic,4,64406000602,Tecfidera,1164,254,9578831.25,8229.24,250.00
+180,Medians,Commercial,Brand or Generic,5,64406002003,Vumerity,2036,315,15392052.06,7559.95,250.00
+181,Medians,Commercial,Brand or Generic,6,50242007401,Nutropin AQ NuSpin 10,5803,625,24656984.66,4249.01,248.38
+182,Medians,Commercial,Brand or Generic,7,00002772411,Taltz,811,118,5331313.06,6573.75,220.62
+183,Medians,Commercial,Brand or Generic,8,00299595030,Tri-Luma,165,135,35799.58,216.97,216.86
+184,Medians,Commercial,Brand or Generic,9,60842002201,Auvi-Q,450,193,2755677.74,6123.73,210.00
+185,Medians,Commercial,Brand or Generic,10,00074262528,Mavyret,428,185,5335761.75,12466.73,200.00
+186,Medians,Commercial,Brand or Generic,11,60842002101,Auvi-Q,1736,745,9925963.15,5717.72,200.00
+187,Medians,Commercial,Brand or Generic,12,70539000102,Tymlos,3401,600,7016793.66,2063.16,192.93
+188,Medians,Commercial,Brand or Generic,13,00093333406,Alyq,478,142,1560144.02,3263.90,190.31
+189,Medians,Commercial,Brand or Generic,14,68546032512,Copaxone,4906,528,27885558.58,5683.97,155.57
+190,Medians,Commercial,Brand or Generic,15,00002814801,Humatrope,1057,125,5594120.33,5292.45,153.76
+191,Medians,Commercial,Brand or Generic,16,00002144511,Taltz,9118,1309,56424313.75,6188.23,150.00
+192,Medians,Commercial,Brand or Generic,17,00024592201,Kevzara,863,140,2935025.48,3400.96,150.00
+193,Medians,Commercial,Brand or Generic,18,00069050130,Xeljanz XR,11922,1676,57500696.31,4823.07,150.00
+194,Medians,Commercial,Brand or Generic,19,00074012403,Humira Pen-CD/UC/HS Starter,882,653,14724834.05,16694.82,150.00
+195,Medians,Commercial,Brand or Generic,20,00074055402,Humira Pen,69844,9429,447012138.90,6400.15,150.00
+196,Medians,Commercial,Brand or Generic,21,00074153903,Humira Pen-Psor/Uveit Starter,349,272,3815627.47,10933.03,150.00
+197,Medians,Commercial,Brand or Generic,22,00078063968,Cosentyx Sensoready Pen,3605,674,24212491.53,6716.36,150.00
+198,Medians,Commercial,Brand or Generic,23,50242007501,Nutropin AQ NuSpin 5,1377,152,2783688.32,2021.56,150.00
+199,Medians,Commercial,Brand or Generic,24,59148008728,Jynarque,1432,187,22434812.64,15666.77,150.00
+200,Medians,Commercial,Brand or Generic,25,61958220101,Epclusa,3398,1264,45172865.99,13293.96,150.00
+201,Medians,Commercial,Generic,1,00093333406,Alyq,478,142,1560144.02,3263.90,190.31
+202,Medians,Commercial,Generic,2,00074204202,Skyrizi (150 MG Dose),2675,1011,45552639.89,17029.02,116.67
+203,Medians,Commercial,Generic,3,00065853302,Ciprodex,489,471,121175.56,247.80,100.00
+204,Medians,Commercial,Generic,4,24979014136,Hydroquinone,262,239,23732.72,90.58,93.37
+205,Medians,Commercial,Generic,5,69367017401,Hydroquinone,705,613,58549.37,83.05,93.37
+206,Medians,Commercial,Generic,6,42192015101,Hydroquinone,379,288,28787.60,75.96,85.66
+207,Medians,Commercial,Generic,7,57844013001,Adderall,644,132,271956.77,422.29,80.00
+208,Medians,Commercial,Generic,8,65628007005,First-Omeprazole,242,102,22425.77,92.67,74.25
+209,Medians,Commercial,Generic,9,57844012001,Adderall,1299,302,681305.05,524.48,72.75
+210,Medians,Commercial,Generic,10,47918090218,Afrezza,700,129,1453766.33,2076.81,61.67
+211,Medians,Commercial,Generic,11,57844011001,Adderall,1027,257,530709.19,516.76,60.00
+212,Medians,Commercial,Generic,12,72626270101,Sofosbuvir-Velpatasvir,361,174,2772723.37,7680.67,60.00
+213,Medians,Commercial,Generic,13,65628005001,First-Mouthwash BLM,174,146,12919.58,74.25,59.31
+214,Medians,Commercial,Generic,14,64011060128,Intrarosa,1041,482,266091.99,255.61,54.64
+215,Medians,Commercial,Generic,15,65628007003,First-Omeprazole,566,236,49787.50,87.96,51.80
+216,Medians,Commercial,Generic,16,65862086360,Dalfampridine ER,1476,235,1560795.52,1057.45,51.63
+217,Medians,Commercial,Generic,17,00065065205,TobraDex ST,274,229,61872.06,225.81,50.00
+218,Medians,Commercial,Generic,18,00178074001,Uribel,435,236,101632.54,233.64,50.00
+219,Medians,Commercial,Generic,19,00525097160,Zelnorm,438,114,196982.75,449.73,50.00
+220,Medians,Commercial,Generic,20,00642009330,Vitafol Ultra,684,146,91313.55,133.50,50.00
+221,Medians,Commercial,Generic,21,10782019830,VitaPearl,3651,703,435497.87,119.28,50.00
+222,Medians,Commercial,Generic,22,38779004303,Progesterone Micronized,267,113,19958.78,74.75,50.00
+223,Medians,Commercial,Generic,23,47918087490,Afrezza,586,139,353930.32,603.98,50.00
+224,Medians,Commercial,Generic,24,47918088018,Afrezza,713,166,972345.95,1363.74,50.00
+225,Medians,Commercial,Generic,25,50265019830,Prena1 Pearl,2772,611,255670.53,92.23,50.00
+226,,,,,,,,,,,
+227,,,,,,,,,,,
+228,,,,,,,,,,,
+229,,,,,,,,,,,
+230,,,,,,,,,,,
+231,,,,,,,,,,,
+232,,,,,,,,,,,
+233,,,,,,,,,,,
+234,,,,,,,,,,,
+235,,,,,,,,,,,
+236,,,,,,,,,,,
+237,,,,,,,,,,,
+238,,,,,,,,,,,
+239,,,,,,,,,,,
+240,,,,,,,,,,,
+241,,,,,,,,,,,
+242,,,,,,,,,,,
+243,,,,,,,,,,,
+244,,,,,,,,,,,
+245,,,,,,,,,,,
+246,,,,,,,,,,,
+247,,,,,,,,,,,
+248,,,,,,,,,,,
+249,,,,,,,,,,,
+250,,,,,,,,,,,
+251,,,,,,,,,,,
+252,,,,,,,,,,,
+253,,,,,,,,,,,
+254,,,,,,,,,,,
+255,,,,,,,,,,,
+256,,,,,,,,,,,
+257,,,,,,,,,,,
+258,,,,,,,,,,,
+259,,,,,,,,,,,
+260,,,,,,,,,,,
+261,,,,,,,,,,,
+262,,,,,,,,,,,
+263,,,,,,,,,,,
+264,,,,,,,,,,,
+265,,,,,,,,,,,
+266,,,,,,,,,,,
+267,,,,,,,,,,,
+268,,,,,,,,,,,
+269,,,,,,,,,,,
+270,,,,,,,,,,,
+271,,,,,,,,,,,
+272,,,,,,,,,,,
+273,,,,,,,,,,,
+274,,,,,,,,,,,
+275,,,,,,,,,,,
+276,,,,,,,,,,,
+277,,,,,,,,,,,
+278,,,,,,,,,,,
+279,,,,,,,,,,,
+280,,,,,,,,,,,
+281,,,,,,,,,,,
+282,,,,,,,,,,,
+283,,,,,,,,,,,
+284,,,,,,,,,,,
+285,,,,,,,,,,,
+286,,,,,,,,,,,
+287,,,,,,,,,,,
+288,,,,,,,,,,,
+289,,,,,,,,,,,
+290,,,,,,,,,,,
+291,,,,,,,,,,,
+292,,,,,,,,,,,
+293,,,,,,,,,,,
+294,,,,,,,,,,,
+295,,,,,,,,,,,
+296,,,,,,,,,,,
+297,,,,,,,,,,,
+298,,,,,,,,,,,
+299,,,,,,,,,,,
+300,,,,,,,,,,,
+301,,,,,,,,,,,
+302,,,,,,,,,,,
+303,,,,,,,,,,,
+304,,,,,,,,,,,
+305,,,,,,,,,,,
+306,,,,,,,,,,,
+307,,,,,,,,,,,
+308,,,,,,,,,,,
+309,,,,,,,,,,,
+310,,,,,,,,,,,
+311,,,,,,,,,,,
+312,,,,,,,,,,,
+313,,,,,,,,,,,
+314,,,,,,,,,,,
+315,,,,,,,,,,,
+316,,,,,,,,,,,
+317,,,,,,,,,,,
+318,,,,,,,,,,,
+319,,,,,,,,,,,
+320,,,,,,,,,,,
+321,,,,,,,,,,,
+322,,,,,,,,,,,
+323,,,,,,,,,,,
+324,,,,,,,,,,,
+325,,,,,,,,,,,
+326,,,,,,,,,,,
+327,,,,,,,,,,,
+328,,,,,,,,,,,
+329,,,,,,,,,,,
+330,,,,,,,,,,,
+331,,,,,,,,,,,
+332,,,,,,,,,,,
+333,,,,,,,,,,,
+334,,,,,,,,,,,
+335,,,,,,,,,,,
+336,,,,,,,,,,,
+337,,,,,,,,,,,
+338,,,,,,,,,,,
+339,,,,,,,,,,,
+340,,,,,,,,,,,
+341,,,,,,,,,,,
+342,,,,,,,,,,,
+343,,,,,,,,,,,
+344,,,,,,,,,,,
+345,,,,,,,,,,,
+346,,,,,,,,,,,
+347,,,,,,,,,,,
+348,,,,,,,,,,,
+349,,,,,,,,,,,
+350,,,,,,,,,,,
+351,,,,,,,,,,,
+352,,,,,,,,,,,
+353,,,,,,,,,,,
+354,,,,,,,,,,,
+355,,,,,,,,,,,
+356,,,,,,,,,,,
+357,,,,,,,,,,,
+358,,,,,,,,,,,
+359,,,,,,,,,,,
+360,,,,,,,,,,,
+361,,,,,,,,,,,
+362,,,,,,,,,,,
+363,,,,,,,,,,,
+364,,,,,,,,,,,
+365,,,,,,,,,,,
+366,,,,,,,,,,,
+367,,,,,,,,,,,
+368,,,,,,,,,,,
+369,,,,,,,,,,,
+370,,,,,,,,,,,
+371,,,,,,,,,,,
+372,,,,,,,,,,,
+373,,,,,,,,,,,
+374,,,,,,,,,,,
+375,,,,,,,,,,,
+376,,,,,,,,,,,
+377,,,,,,,,,,,
+378,,,,,,,,,,,
+379,,,,,,,,,,,
+380,,,,,,,,,,,
+381,,,,,,,,,,,
+382,,,,,,,,,,,
+383,,,,,,,,,,,
+384,,,,,,,,,,,
+385,,,,,,,,,,,
+386,,,,,,,,,,,
+387,,,,,,,,,,,
+388,,,,,,,,,,,
+389,,,,,,,,,,,
+390,,,,,,,,,,,
+391,,,,,,,,,,,
+392,,,,,,,,,,,
+393,,,,,,,,,,,
+394,,,,,,,,,,,
+395,,,,,,,,,,,
+396,,,,,,,,,,,
+397,,,,,,,,,,,
+398,,,,,,,,,,,
+399,,,,,,,,,,,
+400,,,,,,,,,,,
+401,,,,,,,,,,,
+402,,,,,,,,,,,
+403,,,,,,,,,,,
+404,,,,,,,,,,,
+405,,,,,,,,,,,
+406,,,,,,,,,,,
+407,,,,,,,,,,,
+408,,,,,,,,,,,
+409,,,,,,,,,,,
+410,,,,,,,,,,,
+411,,,,,,,,,,,
+412,,,,,,,,,,,
+413,,,,,,,,,,,
+414,,,,,,,,,,,
+415,,,,,,,,,,,
+416,,,,,,,,,,,
+417,,,,,,,,,,,
+418,,,,,,,,,,,
+419,,,,,,,,,,,
+420,,,,,,,,,,,
+421,,,,,,,,,,,
+422,,,,,,,,,,,
+423,,,,,,,,,,,
+424,,,,,,,,,,,
+425,,,,,,,,,,,
+426,,,,,,,,,,,
+427,,,,,,,,,,,
+428,,,,,,,,,,,
+429,,,,,,,,,,,
+430,,,,,,,,,,,
+431,,,,,,,,,,,
+432,,,,,,,,,,,
+433,,,,,,,,,,,
+434,,,,,,,,,,,
+435,,,,,,,,,,,
+436,,,,,,,,,,,
+437,,,,,,,,,,,
+438,,,,,,,,,,,
+439,,,,,,,,,,,
+440,,,,,,,,,,,
