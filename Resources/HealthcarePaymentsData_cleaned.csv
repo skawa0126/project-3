@@ -1,0 +1,59 @@
+_id,top25type,payer_type,brand_generic,rank,national_drug_code,drug_name,numberofprescriptions,numberofindividuals,totalcost,costperprescription,outofpocketmedian
+76,Frequency,Commercial,Brand,1,47781030301,Nitrofurantoin Monohyd Macro,213256,178229,2835919.37,13.3,10
+77,Frequency,Commercial,Brand,2,173068220,Ventolin HFA,190751,105051,10712320.75,56.16,10
+203,Medians,Commercial,Generic,3,65853302,Ciprodex,489,471,121175.56,247.8,100
+54,Cost,Commercial,Generic,4,93770456,Emtricitabine-Tenofovir DF,52656,23171,39572862.39,751.54,0
+204,Medians,Commercial,Generic,4,24979014136,Hydroquinone,262,239,23732.72,90.58,93.37
+205,Medians,Commercial,Generic,5,69367017401,Hydroquinone,705,613,58549.37,83.05,93.37
+56,Cost,Commercial,Generic,6,93760756,Emtricitabine-Tenofovir DF,16423,11154,34240243.76,2084.9,0
+81,Frequency,Commercial,Brand,6,2831501,HumuLIN N,146719,50156,28703051.02,195.63,7.5
+206,Medians,Commercial,Generic,6,42192015101,Hydroquinone,379,288,28787.6,75.96,85.66
+57,Cost,Commercial,Generic,7,378932132,Wixela Inhub,152148,53278,24311292.54,159.79,10
+82,Frequency,Commercial,Brand,7,70515071201,Alvesco,141083,76303,19403602.35,137.53,20
+207,Medians,Commercial,Generic,7,57844013001,Adderall,644,132,271956.77,422.29,80
+83,Frequency,Commercial,Brand,8,58160082311,Shingrix,138359,104212,23243187.15,167.99,0
+208,Medians,Commercial,Generic,8,65628007005,First-Omeprazole,242,102,22425.77,92.67,74.25
+84,Frequency,Commercial,Brand,9,430042014,Lo Loestrin Fe,120930,30815,37082119.95,306.64,0
+209,Medians,Commercial,Generic,9,57844012001,Adderall,1299,302,681305.05,524.48,72.75
+60,Cost,Commercial,Generic,10,65862035430,Emtricitabine-Tenofovir DF,19003,5598,18994195,999.54,0
+210,Medians,Commercial,Generic,10,47918090218,Afrezza,700,129,1453766.33,2076.81,61.67
+61,Cost,Commercial,Generic,11,378932232,Wixela Inhub,90095,28502,18077076.58,200.64,8.33
+211,Medians,Commercial,Generic,11,57844011001,Adderall,1027,257,530709.19,516.76,60
+62,Cost,Commercial,Generic,12,378039991,Dimethyl Fumarate,3503,677,14029941.62,4005.12,15
+87,Frequency,Commercial,Brand,12,70515071101,Alvesco,114164,72200,13482375.26,118.1,20
+212,Medians,Commercial,Generic,12,72626270101,Sofosbuvir-Velpatasvir,361,174,2772723.37,7680.67,60
+63,Cost,Commercial,Generic,13,65162046935,EluRyng,67596,26180,13825030.43,204.52,0
+88,Frequency,Commercial,Brand,13,52268001201,Suprep Bowel Prep Kit,109467,93368,11359621.83,103.77,0
+213,Medians,Commercial,Generic,13,65628005001,First-Mouthwash BLM,174,146,12919.58,74.25,59.31
+64,Cost,Commercial,Generic,14,68382071119,Mesalamine,26005,5570,13211254.7,508.03,10
+214,Medians,Commercial,Generic,14,64011060128,Intrarosa,1041,482,266091.99,255.61,54.64
+90,Frequency,Commercial,Brand,15,54429731,Furosemide,95488,37625,903876.49,9.47,3.89
+215,Medians,Commercial,Generic,15,65628007003,First-Omeprazole,566,236,49787.5,87.96,51.8
+66,Cost,Commercial,Generic,16,61314032610,Zarxio,7423,2253,11405643.94,1536.53,20
+216,Medians,Commercial,Generic,16,65862086360,Dalfampridine ER,1476,235,1560795.52,1057.45,51.63
+67,Cost,Commercial,Generic,17,115169449,EPINEPHrine,84059,68067,11348655.81,135.01,10
+92,Frequency,Commercial,Brand,17,2879959,HumaLOG KwikPen,88587,23538,50819332.53,573.67,25
+217,Medians,Commercial,Generic,17,65065205,TobraDex ST,274,229,61872.06,225.81,50
+68,Cost,Commercial,Generic,18,93598627,EPINEPHrine,25844,21382,9778085.96,378.35,10
+93,Frequency,Commercial,Brand,18,597015230,Jardiance,85506,18547,56959905.16,666.15,30
+218,Medians,Commercial,Generic,18,178074001,Uribel,435,236,101632.54,233.64,50
+69,Cost,Commercial,Generic,19,61314031810,Zarxio,9603,2954,9742915.84,1014.57,20
+94,Frequency,Commercial,Brand,19,88222033,Lantus,78517,22900,36978339.87,470.96,21.25
+219,Medians,Commercial,Generic,19,525097160,Zelnorm,438,114,196982.75,449.73,50
+70,Cost,Commercial,Generic,20,59267100003,Pfizer-BioNTech COVID-19 Vacc,238168,188872,9249227.74,38.83,0
+95,Frequency,Commercial,Brand,20,2880559,HumuLIN N KwikPen,76939,26449,17924859.89,232.97,10
+220,Medians,Commercial,Generic,20,642009330,Vitafol Ultra,684,146,91313.55,133.5,50
+71,Cost,Commercial,Generic,21,378334053,Xulane,37253,13376,9235371.19,247.91,0
+96,Frequency,Commercial,Brand,21,597036055,Pradaxa,76677,23275,43388902.88,565.87,20
+221,Medians,Commercial,Generic,21,10782019830,VitaPearl,3651,703,435497.87,119.28,50
+222,Medians,Commercial,Generic,22,38779004303,Progesterone Micronized,267,113,19958.78,74.75,50
+73,Cost,Commercial,Generic,23,8508200005,Omnipod DASH Pods (Gen 4),8440,1688,8625673.47,1022,30
+98,Frequency,Commercial,Brand,23,310621030,Farxiga,72443,12447,45473789.11,627.72,30
+223,Medians,Commercial,Generic,23,47918087490,Afrezza,586,139,353930.32,603.98,50
+74,Cost,Commercial,Generic,24,10370010150,buPROPion HCl ER (XL),138927,55750,7920491.95,57.01,6.67
+99,Frequency,Commercial,Brand,24,50458057930,Xarelto,71657,14150,42179575.58,588.63,30
+224,Medians,Commercial,Generic,24,47918088018,Afrezza,713,166,972345.95,1363.74,50
+25,Cost,Commercial,Brand,25,57894064011,Tremfya,5801,1484,64348256.69,11092.61,83.33
+75,Cost,Commercial,Generic,25,69238209503,Emtricitabine-Tenofovir DF,7934,2472,7865680.57,991.39,0
+175,Medians,Commercial,Brand,25,64011030103,Makena,542,164,1596689.7,2945.92,150
+225,Medians,Commercial,Generic,25,50265019830,Prena1 Pearl,2772,611,255670.53,92.23,50
