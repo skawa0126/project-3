@@ -30,8 +30,22 @@ CREATE TABLE diabetes_ndcs_wac_increases_2019 (
     FOREIGN KEY (ndc_number) REFERENCES healthcare_payments_data(national_drug_code)
 );
 
+select * from diabetes_ndcs_wac_increases_2019;
+
 ALTER TABLE diabetes_ndcs_wac_increases_2019
 DROP CONSTRAINT diabetes_ndcs_wac_increases_2019_ndc_number_fkey;
+
+DELETE FROM diabetes_ndcs_wac_increases_2019
+WHERE ndc_number NOT IN (SELECT national_drug_code FROM healthcare_payments_data);
+
+
+ALTER TABLE diabetes_ndcs_wac_increases_2019
+ADD CONSTRAINT diabetes_ndcs_wac_increases_2019_ndc_number_fkey
+FOREIGN KEY (ndc_number) REFERENCES healthcare_payments_data(national_drug_code);
+
+
+ALTER TABLE diabetes_ndcs_wac_increases_2020
+DROP CONSTRAINT diabetes_ndcs_wac_increases_2020_ndc_number_fkey;
 
 DELETE FROM diabetes_ndcs_wac_increases_2020
 WHERE ndc_number NOT IN (SELECT national_drug_code FROM healthcare_payments_data);
@@ -41,7 +55,25 @@ ALTER TABLE diabetes_ndcs_wac_increases_2020
 ADD CONSTRAINT diabetes_ndcs_wac_increases_2020_ndc_number_fkey
 FOREIGN KEY (ndc_number) REFERENCES healthcare_payments_data(national_drug_code);
 
+CREATE TABLE MCR_D_Spending (
+    brand_name VARCHAR(255),
+    generic_name VARCHAR(255),
+    number_of_manufacturers INT,
+    year INT,
+    total_spending DECIMAL(15,2),
+    total_dosage_units BIGINT,
+    total_claims INT,
+    total_beneficiaries INT,
+    avg_spending_per_dosage_unit DECIMAL(15,2),
+    avg_spending_per_claim DECIMAL(15,2),
+    avg_spending_per_beneficiary DECIMAL(15,2),
+    outlier_flag BOOLEAN,
+    change_in_avg_spending DECIMAL(5,2) NULL,
+    annual_growth_rate DECIMAL(5,2)
+);
 
+
+select * from MCR_D_Spending;
 
 
 CREATE TABLE healthcare_payments_data (
@@ -59,4 +91,5 @@ CREATE TABLE healthcare_payments_data (
     outofpocketmedian DECIMAL(10, 2)
 );
 
-select
+select * from healthcare_payments_data;
+
