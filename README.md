@@ -35,10 +35,10 @@ Instructions on how to use and interact with the project:
 •	Clean and standardize drug names and NDC codes across datasets
 3.	Load:
 •	Store processed data in a PostgreSQL database with tables for:
-    •Drugs: Basic drug information and NDC codes
-    •PriceHistory: Historical WAC prices and increase data
-    •Manufacturers: Information on drug manufacturers
-    •PriceAnalysis: Calculated metrics on price increases and comparisons
+        •Drugs: Basic drug information and NDC codes
+        •PriceHistory: Historical WAC prices and increase data
+        •Manufacturers: Information on drug manufacturers
+        •PriceAnalysis: Calculated metrics on price increases and comparisons
 4.	Analyze:
 •   Calculate percentage and absolute price increases over time
 •   Categorize drugs by therapeutic class and manufacturer
