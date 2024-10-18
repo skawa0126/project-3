@@ -4,11 +4,11 @@
 The Prescription Drug Price Transparency Pipeline project aims to optimize the extraction, transformation, and loading (ETL) processes for prescription drug pricing data sourced from the California Health and Human Services Agency (CHHS), Food and Drug Administration (FDA) and Bureau of Labor Statistics (BLS).  By improving the efficiency and reliability of these data pipelines, we will enhance the quality of insights regarding prescription drug prices and their impact on healthcare affordability.  This project emphasizes the automation of data workflows, reducing of processing times, and maintenance of data integrity across various sources, ultimately promoting transparency in drug pricing and enabling policymakers, healthcare providers, and consumers to make well-informed decisions.
 
 ## Objectives:
-- Analyze Current Data Sources: Assess the prescription drug pricing data from CHHS, FDA, and BLS to understand their structures and formats.
-- Design the ETL Pipeline: Create a blueprint for the ETL process, outlining the steps for extraction, transformation, and loading of the data.
-- Implement Automation: Develop automated workflows to streamline the ETL process and reduce manual work
-- Enhance Data Quality: Incorporate validation checks and error-handling mechanisms to ensure accurate and reliable data
-- Document the Process: Produce thorough documentation detailing the ETL workflow, tools used, and best practices for future reference.
+- **Analyze Current Data Sources:** Assess the prescription drug pricing data from CHHS, FDA, and BLS to understand their structures and formats.
+- **Design the ETL Pipeline:** Create a blueprint for the ETL process, outlining the steps for extraction, transformation, and loading of the data.
+- **Implement Automation:** Develop automated workflows to streamline the ETL process and reduce manual work
+- **Enhance Data Quality:** Incorporate validation checks and error-handling mechanisms to ensure accurate and reliable data
+- **Document the Process:** Produce thorough documentation detailing the ETL workflow, tools used, and best practices for future reference.
 
 ## Target Audience:
 Policymakers, healthcare providers, and consumers
