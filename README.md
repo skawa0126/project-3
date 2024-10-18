@@ -17,27 +17,27 @@ Policymakers, healthcare providers, and consumers
 The project will be executed over 3 weeks, divided into phases: development, exploration and cleanup, and analysis.
 
 ## Expected Outcome:
-- Streamlined ETL Process:  A fully functional ETL pipeline that efficiently extracts, transforms, and loads prescription drug pricing data from the specified sources.
-- Improved Data Accuracy: Enhanced data quality through validation checks and error handling, ensuring reliable insights into drug pricing.
-- Faster Processing Times: Significant reduction in data processing times, enabling quicker access to up-to-date information.
-- Comprehensive Documentation: Detailed documentation of the ETL process, including workflow diagrams, to facilitate understanding and future modifications.
-- Hands-On Learning Experience: Valuable practical experience in data engineering, including the application of tools and techniques relevant to ETL processes.
+- **Streamlined ETL Process:**  A fully functional ETL pipeline that efficiently extracts, transforms, and loads prescription drug pricing data from the specified sources.
+- **Improved Data Accuracy:** Enhanced data quality through validation checks and error handling, ensuring reliable insights into drug pricing.
+- **Faster Processing Times:** Significant reduction in data processing times, enabling quicker access to up-to-date information.
+- **Comprehensive Documentation:** Detailed documentation of the ETL process, including workflow diagrams, to facilitate understanding and future modifications.
+- **Hands-On Learning Experience:** Valuable practical experience in data engineering, including the application of tools and techniques relevant to ETL processes.
 
 ## Instructions on how to use and interact with the project:
-1.	Extract:
+1.	**Extract:**
     - Download the CHHS Prescription Drug WAC Increases dataset
     - Fetch data from FDA National Drug Code Directory API
     - Pull Medicare Part D formulary data
     - Retrieve CPI data for healthcare and general consumer goods
-2.	Transform:
+2.	**Transform:**
     - Clean and standardize drug names and NDC codes across datasets
-3.	Load:
+3.	**Load:**
     - Store processed data in a PostgreSQL database with tables for:
         - Drugs: Basic drug information and NDC codes
         - PriceHistory: Historical WAC prices and increase data
         - Manufacturers: Information on drug manufacturers
         - PriceAnalysis: Calculated metrics on price increases and comparisons
-4.	Analyze:
+4.	**Analyze:**
     - Calculate percentage and absolute price increases over time
     - Categorize drugs by therapeutic class and manufacturer
     - Compare drug price increases to CPI increases
@@ -55,8 +55,8 @@ This project prioritizes several key ethical considerations to ensure responsibl
 
 
 ## References for the data source(s):
-- California Health and Human Services Agency – Prescription Drug WAC Increases dataset
-- Food and Drug Administration – National Drug Code Directory 
-- Bureau of Labor Statistics – Consumer Price Index
+- **California Health and Human Services Agency** – Prescription Drug WAC Increases dataset
+- **Food and Drug Administration** – National Drug Code Directory 
+- **Bureau of Labor Statistics** – Consumer Price Index
 
 ## References for any code used:
