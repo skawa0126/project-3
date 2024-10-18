@@ -1,5 +1,7 @@
 # Project Title:  Prescription Drug Price Transparency Pipeline
 
+![alt text]([http://url/to/img.png](https://www.singlecare.com/blog/wp-content/uploads/2020/05/Blog_090315_Get-Cheaper-Prescriptions.png))
+
 ## Purpose:
 The Prescription Drug Price Transparency Pipeline project aims to optimize the extraction, transformation, and loading (ETL) processes for prescription drug pricing data sourced from the California Health and Human Services Agency (CHHS), Food and Drug Administration (FDA) and Bureau of Labor Statistics (BLS).  By improving the efficiency and reliability of these data pipelines, we will enhance the quality of insights regarding prescription drug prices and their impact on healthcare affordability.  This project emphasizes the automation of data workflows, reducing of processing times, and maintenance of data integrity across various sources, ultimately promoting transparency in drug pricing and enabling policymakers, healthcare providers, and consumers to make well-informed decisions.
 
