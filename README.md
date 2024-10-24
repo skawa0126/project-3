@@ -6,7 +6,6 @@ The Prescription Drug Price Transparency Pipeline project aims to optimize the e
 ## Objectives:
 - **Analyze Current Data Sources:** Assess the prescription drug pricing data from CHHS, FDA, and BLS to understand their structures and formats.
 - **Design the ETL Pipeline:** Create a blueprint for the ETL process, outlining the steps for extraction, transformation, and loading of the data.
-- **Implement Automation:** Develop automated workflows to streamline the ETL process and reduce manual work
 - **Enhance Data Quality:** Incorporate validation checks and error-handling mechanisms to ensure accurate and reliable data
 - **Document the Process:** Produce thorough documentation detailing the ETL workflow, tools used, and best practices for future reference.
 
